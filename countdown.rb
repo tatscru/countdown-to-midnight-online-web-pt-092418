@@ -1,13 +1,12 @@
 #write your code here
+ 
+int = 1
+  while int < 11 
+  "#{int} SECOND (S)!"
+  int -= 1
+end   
 
-def countdown(int)
-  x = 0 
-  while x < 10 
-  puts "#{x} SECOND (S)!"
-  x -= 1
-  # puts "HAPPY NEW YEAR"
-  end
-end 
+# "HAPPY NEW YEAR"
 
-def countdown_with_sleep
-end 
+# def countdown_with_sleep
+# end 
